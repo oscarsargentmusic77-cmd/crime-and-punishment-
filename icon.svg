@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Crime and Punishment GCSE icon">
+  <rect width="512" height="512" rx="96" fill="#2d6a4f"/>
+  <rect x="80" y="352" width="352" height="34" rx="17" fill="#f7f3ea" opacity="0.92"/>
+  <path d="M256 108v268" stroke="#f7f3ea" stroke-width="28" stroke-linecap="round"/>
+  <path d="M132 178h248" stroke="#f1c15f" stroke-width="24" stroke-linecap="round"/>
+  <path d="M164 194v92M348 194v92" stroke="#f1c15f" stroke-width="12" stroke-linecap="round" stroke-dasharray="16 14"/>
+  <path d="M108 292h112c-7 36-29 54-56 54s-49-18-56-54Z" fill="#f1c15f"/>
+  <path d="M292 292h112c-7 36-29 54-56 54s-49-18-56-54Z" fill="#f1c15f"/>
+  <text x="256" y="272" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="800" fill="#f7f3ea">C</text>
+</svg>

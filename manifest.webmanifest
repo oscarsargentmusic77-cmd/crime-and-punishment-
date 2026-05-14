@@ -1,0 +1,19 @@
+{
+  "name": "GCSE Crime and Punishment",
+  "short_name": "Crime GCSE",
+  "description": "A GCSE Edexcel History Crime and Punishment revision app.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f3ea",
+  "theme_color": "#2d6a4f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
